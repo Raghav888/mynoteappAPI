@@ -6,8 +6,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink",
-            "note":true
+            "cardcolor": "pink"
+            
         },
         {
             "id": 2,
@@ -16,8 +16,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "2",
-            "cardcolor": "pink",
-             "note":true
+            "cardcolor": "pink"
+     
         },
         {
             "id": 3,
@@ -26,8 +26,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "3",
-            "cardcolor": "pink",
-             "note":true
+            "cardcolor": "pink"
+          
         }, {
             "id": 4,
             "title": "Neog Assign 1",
@@ -35,8 +35,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink",
-             "note":true
+            "cardcolor": "pink"
+            
         }
     ],
     "trash": [{
