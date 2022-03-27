@@ -46,7 +46,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink"
+            "cardcolor": "pink",
+        "istrashed":"true"
         },
         {
             "id": 6,
@@ -55,7 +56,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "2",
-            "cardcolor": "pink"
+            "cardcolor": "pink",
+             "istrashed":"true"
         }
 
     ],
