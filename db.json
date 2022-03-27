@@ -6,7 +6,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink"
+            "cardcolor": "pink",
+            "note":true,
         },
         {
             "id": 2,
@@ -14,8 +15,9 @@
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
             "tag": "work",
-            "priority": "1",
-            "cardcolor": "pink"
+            "priority": "2",
+            "cardcolor": "pink",
+             "note":true,
         },
         {
             "id": 3,
@@ -23,8 +25,9 @@
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
             "tag": "work",
-            "priority": "1",
-            "cardcolor": "pink"
+            "priority": "3",
+            "cardcolor": "pink",
+             "note":true,
         }, {
             "id": 4,
             "title": "Neog Assign 1",
@@ -32,7 +35,8 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink"
+            "cardcolor": "pink",
+             "note":true,
         }
     ],
     "trash": [{
@@ -50,7 +54,7 @@
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
             "tag": "work",
-            "priority": "1",
+            "priority": "2",
             "cardcolor": "pink"
         }
 
@@ -70,7 +74,7 @@
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
             "tag": "work",
-            "priority": "1",
+            "priority": "2",
             "cardcolor": "pink"
         }
     ],
