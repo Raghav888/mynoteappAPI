@@ -4,7 +4,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
-            "tag": "work",
+            "tag": "HOME",
             "priority": "1",
             "cardcolor": "pink"
             
@@ -14,7 +14,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
-            "tag": "work",
+            "tag": "WORK",
             "priority": "2",
             "cardcolor": "pink"
      
@@ -24,7 +24,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
-            "tag": "work",
+            "tag": "HEALTH",
             "priority": "3",
             "cardcolor": "pink"
           
@@ -33,7 +33,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2/08/2021",
-            "tag": "work",
+            "tag": "BANK",
             "priority": "1",
             "cardcolor": "pink"
             
@@ -80,23 +80,23 @@
     ],
     "tags": [{
             "id": 9999,
-            "tagName": "work"
+            "tagName": "WORK"
         },
         {
             "id": 9998,
-            "tagName": "home"
+            "tagName": "HOME"
         },
         {
             "id": 9997,
-            "tagName": "health"
+            "tagName": "HEALTH"
         },
         {
             "id": 9996,
-            "tagName": "bank"
+            "tagName": "BANK"
         },
         {
             "id": 9995,
-            "tagName": "school"
+            "tagName": "SCHOOL"
         }
     ]
 }
