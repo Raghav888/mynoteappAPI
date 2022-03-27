@@ -1,0 +1,98 @@
+{
+    "notes": [{
+            "id": 1,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        },
+        {
+            "id": 2,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        },
+        {
+            "id": 3,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        }, {
+            "id": 4,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        }
+    ],
+    "trash": [{
+            "id": 5,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        },
+        {
+            "id": 6,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        }
+
+    ],
+    "archive": [{
+            "id": 7,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        },
+        {
+            "id": 8,
+            "title": "Neog Assign 1",
+            "data": "Need to complete before 2nd April",
+            "date": "2/08/2021",
+            "tag": "work",
+            "priority": "1",
+            "cardcolor": "pink"
+        }
+    ],
+    "tags": [{
+            "id": 9999,
+            "tagName": "work"
+        },
+        {
+            "id": 9998,
+            "tagName": "home"
+        },
+        {
+            "id": 9997,
+            "tagName": "health"
+        },
+        {
+            "id": 9996,
+            "tagName": "bank"
+        },
+        {
+            "id": 9995,
+            "tagName": "school"
+        }
+    ]
+}
