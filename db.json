@@ -6,7 +6,7 @@
             "date": "2/08/2021",
             "tag": "HOME",
             "priority": "1",
-            "cardcolor": "pink"
+            "cardcolor": "white-box"
             
         },
         {
@@ -16,7 +16,7 @@
             "date": "2/08/2021",
             "tag": "WORK",
             "priority": "2",
-            "cardcolor": "pink"
+            "cardcolor": "red-box"
      
         },
         {
@@ -26,7 +26,7 @@
             "date": "2/08/2021",
             "tag": "HEALTH",
             "priority": "3",
-            "cardcolor": "pink"
+            "cardcolor": "blue-box"
           
         }, {
             "id": 4,
@@ -35,7 +35,7 @@
             "date": "2/08/2021",
             "tag": "BANK",
             "priority": "1",
-            "cardcolor": "pink"
+            "cardcolor": "green-box"
             
         }
     ],
@@ -46,7 +46,7 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink",
+            "cardcolor": "cream-box",
         "istrashed":"true"
         },
         {
@@ -56,7 +56,7 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "2",
-            "cardcolor": "pink",
+            "cardcolor": "green-box",
              "istrashed":"true"
         }
 
@@ -68,7 +68,7 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "1",
-            "cardcolor": "pink",
+            "cardcolor": "white-box",
         "isArchived":"true"
         },
         {
@@ -78,7 +78,7 @@
             "date": "2/08/2021",
             "tag": "work",
             "priority": "2",
-            "cardcolor": "pink",
+            "cardcolor": "blue-box",
              "isArchived":"true"
         }
     ],
