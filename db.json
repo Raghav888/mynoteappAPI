@@ -44,7 +44,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2022/03/01",
-            "tag": "work",
+            "tag": "BANK",
             "priority": 1,
             "cardcolor": "cream-box",
         "istrashed":"true"
@@ -54,7 +54,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2022/03/05",
-            "tag": "work",
+            "tag": "FINANCE",
             "priority": 2,
             "cardcolor": "green-box",
              "istrashed":"true"
@@ -66,7 +66,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2022/03/02",
-            "tag": "work",
+            "tag": "WORK",
             "priority": 1,
             "cardcolor": "white-box",
         "isArchived":"true"
@@ -76,7 +76,7 @@
             "title": "Neog Assign 1",
             "data": "Need to complete before 2nd April",
             "date": "2022/03/01",
-            "tag": "work",
+            "tag": "HOME",
             "priority": 2,
             "cardcolor": "blue-box",
              "isArchived":"true"
