@@ -1,8 +1,8 @@
 {
     "notes": [{
             "id": 1,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "AC Repair",
+            "data": "Call technician and get it done by thursday.",
             "date": "2022/03/12",
             "tag": "HOME",
             "priority": 1,
@@ -11,8 +11,8 @@
         },
         {
             "id": 2,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Leave",
+            "data": "Apply for leave for 3 days (vacation)",
             "date": "2022/03/10",
             "tag": "WORK",
             "priority": 2,
@@ -21,8 +21,8 @@
         },
         {
             "id": 3,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Eyes checkup",
+            "data": "Check eyes, and get the new spects.",
             "date": "2022/03/15",
             "tag": "HEALTH",
             "priority": 3,
@@ -30,8 +30,8 @@
           
         }, {
             "id": 4,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Submit the check",
+            "data": "Submit the check in bank for clearing the bills",
             "date": "2022/03/18",
             "tag": "BANK",
             "priority": 1,
