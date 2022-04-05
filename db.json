@@ -41,8 +41,8 @@
     ],
     "trash": [{
             "id": 5,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Open Account",
+            "data": "Open new acc",
             "date": "2022/03/01",
             "tag": "BANK",
             "priority": 1,
@@ -51,8 +51,8 @@
         },
         {
             "id": 6,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Admission",
+            "data": "Find out which is best school in Pune.",
             "date": "2022/03/05",
             "tag": "SCHOOL",
             "priority": 2,
@@ -63,8 +63,8 @@
     ],
     "archive": [{
             "id": 7,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Updates of Project",
+            "data": "Get all PR's review done and merge it in Dev branch",
             "date": "2022/03/02",
             "tag": "WORK",
             "priority": 1,
@@ -73,8 +73,8 @@
         },
         {
             "id": 8,
-            "title": "Neog Assign 1",
-            "data": "Need to complete before 2nd April",
+            "title": "Pay Rent",
+            "data": "Pay rent of house and also salary of cook/maid",
             "date": "2022/03/01",
             "tag": "HOME",
             "priority": 2,
